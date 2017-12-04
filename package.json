@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "A Simple Node Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabakaranrvp/nodeApp.git"
+  },
+  "author": "Prabakaran Raja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prabakaranrvp/nodeApp/issues"
+  },
+  "homepage": "https://github.com/prabakaranrvp/nodeApp#readme"
+}
