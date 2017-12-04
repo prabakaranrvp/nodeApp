@@ -7,14 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "engines": {
+    "node": "8.9.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/prabakaranrvp/nodeApp.git"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
   },
   "author": "Prabakaran Raja",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/prabakaranrvp/nodeApp/issues"
-  },
-  "homepage": "https://github.com/prabakaranrvp/nodeApp#readme"
+  }
 }
